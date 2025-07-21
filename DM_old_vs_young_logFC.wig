@@ -1,0 +1,4 @@
+track type=wiggle_0 name="Mvalue_DM_old_vs_young_logFC" description="Group-level logFC M-value" visibility=full color=255,0,0 altColor=0,0,255 graphType=bar
+variableStep chrom=chr1
+37690980 -1.41868585536653
+37690790 -3.75243764309111
