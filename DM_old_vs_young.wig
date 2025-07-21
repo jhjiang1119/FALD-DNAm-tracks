@@ -1,4 +1,0 @@
-track type=wiggle_0 name="Mvalue_DM_old_vs_young" description="Group-level AveExpr M-value" visibility=full color=255,0,0 altColor=0,0,255 graphType=bar
-variableStep chrom=chr1
-37690980 -1.33511554382101
-37690790 -1.88079179112022
